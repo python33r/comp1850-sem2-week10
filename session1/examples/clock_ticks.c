@@ -11,6 +11,6 @@
 
 int main(void)
 {
-    printf("CLOCKS_PER_SEC = %d\n", CLOCKS_PER_SEC);
+    printf("CLOCKS_PER_SEC = %ld\n", CLOCKS_PER_SEC);
     return 0;
 }
