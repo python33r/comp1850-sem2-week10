@@ -38,6 +38,7 @@ int main(void)
     // 3. Second pass - allocate and fill argv
 
     p = argv[0] = buffer;
+
     int i = 1;  // index for next arg
 
     // While there are chars to process...
