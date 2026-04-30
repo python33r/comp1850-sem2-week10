@@ -12,8 +12,8 @@ int main(void)
 
     u.f = 3.1415927;
 
-    printf("Value of k = %d\n", u.k);
     printf("Value of f = %f\n", u.f);
+    printf("Value of k = %d\n", u.k);
 
     return 0;
 }

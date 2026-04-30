@@ -12,6 +12,7 @@ int main(void)
 
     day = 2;
     printf("%d\n", day);
+
     if (day == Tuesday) {
         printf("This is a Tuesday\n");
     }
